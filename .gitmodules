@@ -1,0 +1,3 @@
+[submodule "libs/pabx-test-submodule"]
+	path = libs/pabx-test-submodule
+	url = git@github.com:native-instruments/pabx-test-submodule.git
